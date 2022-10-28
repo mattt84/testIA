@@ -1,0 +1,60 @@
+[33mcommit acae6d0ec079b09ac68871470e4097434d35eba7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: mattt84 <60741147+mattt84@users.noreply.github.com>
+Date:   Fri Oct 28 10:11:00 2022 +0200
+
+    Revert "commit 3"
+    
+    This reverts commit f770a3469dda74b827e02857ba38c6c0af9b6cb1.
+
+[1mdiff --git a/trzeci.txt b/trzeci.txt[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+
+[33mcommit f770a3469dda74b827e02857ba38c6c0af9b6cb1[m
+Author: mattt84 <60741147+mattt84@users.noreply.github.com>
+Date:   Fri Oct 28 10:06:50 2022 +0200
+
+    commit 3
+
+[1mdiff --git a/trzeci.txt b/trzeci.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit f708584928de0e30c1d5d487be50054a836ec23e[m
+Author: mattt84 <60741147+mattt84@users.noreply.github.com>
+Date:   Fri Oct 28 09:58:33 2022 +0200
+
+    C2: second commit
+
+[1mdiff --git a/hello.txt b/hello.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..6d0cdda[m
+[1m--- /dev/null[m
+[1m+++ b/hello.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mbonjour de Bastia[m
+\ No newline at end of file[m
+[1mdiff --git a/test.txt b/test.txt[m
+[1mindex fa5b0e9..9972e19 100644[m
+[1m--- a/test.txt[m
+[1m+++ b/test.txt[m
+[36m@@ -1 +1 @@[m
+[31m-coucou[m
+\ No newline at end of file[m
+[32m+[m[32msiema z Bastii[m
+\ No newline at end of file[m
+
+[33mcommit 66d1dba0b54aef93597374c102a673006b9e7741[m
+Author: mattt84 <60741147+mattt84@users.noreply.github.com>
+Date:   Fri Oct 28 09:48:29 2022 +0200
+
+    C1: first commit
+
+[1mdiff --git a/test.txt b/test.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..fa5b0e9[m
+[1m--- /dev/null[m
+[1m+++ b/test.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mcoucou[m
+\ No newline at end of file[m
